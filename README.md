@@ -7,17 +7,17 @@ Download Apache Hadoop https://hadoop.apache.org/releases.html
 
 I recommend 2020 Versions of Hadoop, Click on the binary file link and download the :.tar" file as shown in video  
 
-5 important files to edit for Hadoop: http://bit.ly/3sq25YE  <<<THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY>>>
+5 important files to edit for Hadoop: http://bit.ly/3sq25YE  *THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY*
 
 Extract and Copy the files to your Hadoop Folder in that "etc/hadoop" Don't forget to give the change of namenode and datanode in "hdfs-site.xml"  
 
-Download the Hadoop configuration file from below link https://drive.google.com/file/d/1AMqV...  <<<THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY>>>
+Download the Hadoop configuration file from below link https://drive.google.com/file/d/1AMqV...  *THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY*
 
 Paste the "bin" folder in this file in your Hadoop Folder as shown in video
 
 For any queries refer the Document or video by Edureka Channel
 
-Document for Installation: http://bit.ly/3idebzl   <<<THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY>>>
+Document for Installation: http://bit.ly/3idebzl   *THIS FILE IS ALSO INCLUDED IN THIS REPOSITORY*
 
 Link for MY Youtube Video 
 
